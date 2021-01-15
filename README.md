@@ -1,2 +1,2 @@
 # Credit-Card-Generator
-CC Generator
+CC Generator By Elimina2rs
